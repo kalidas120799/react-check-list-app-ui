@@ -4,7 +4,7 @@ import Home from "../pages/home/Home"
 import Recycle from "../pages/recycle/Recycle"
 import Login from "../pages/login/Login"
 import Mytodo from '../pages/todo/Mytodo'
-import Logout from '../logout/Logout'
+import Logout from '../pages/logout/Logout'
 import { checkLogin } from "../auth"
 export default class Router extends Component {
     render() {
